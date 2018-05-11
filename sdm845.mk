@@ -140,3 +140,6 @@ PRODUCT_PACKAGES += \
     $(LOCAL_PATH)/configs/hostapd.accept:system/etc/hostapd/hostapd.accept \
     $(LOCAL_PATH)/configs/hostapd.deny:system/etc/hostapd/hostapd.deny \
 
+# Enable WIFI AWARE FEATURE
+    WIFI_HIDL_FEATURE_AWARE := true
+
