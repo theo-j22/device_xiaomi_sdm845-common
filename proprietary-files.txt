@@ -200,7 +200,3 @@ lib/libwfduibcsinkinterface.so
 lib/libwfduibcsrc.so
 lib/libwfduibcsrcinterface.so
 -priv-app/WfdService/WfdService.apk
-
-# Soter
--app/SoterService/SoterService.apk
-
